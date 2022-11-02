@@ -1,0 +1,24 @@
+{
+  "pages": [
+    {
+      "title": "Strona Główna",
+        "url": "/"
+    },
+    {
+      "title": "Warzywa",
+      "url": "/"
+    },
+    {
+      "title": "Owoce",
+      "url": "/"
+    },
+    {
+      "title": "Blog",
+      "url": "/"
+    },
+    {
+      "title": "kontakt",
+      "url": "/kontakt"
+    }
+  ]
+}
