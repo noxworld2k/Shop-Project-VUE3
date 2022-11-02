@@ -1,10 +1,9 @@
 # shop vue
 
-This template should help get you started developing with Vue 3 in Vite.
+Design of an online store with cms where practically everything is in the database, and you can add or remove items from the page to be completely dynamically generated.
 
-## Recommended IDE Setup
+### Administrator panel will be on localhost/admin
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
 
 ## Type Support for `.vue` Imports in TS
 

@@ -65,3 +65,4 @@ onBeforeMount(async () => {
   }
 }
 </style>
+git push -u -f origin main
