@@ -1,7 +1,6 @@
 <template >
   <TheHeader />
     <ContactForm />
-    <GoogleMap />
   <TheFooter />
 </template>
 
@@ -9,5 +8,4 @@
 import TheHeader from '../components/TheHeader.vue'
 import TheFooter from '../components/TheFooter.vue'
 import ContactForm from '../components/ContactForm.vue'
-import GoogleMap from '../components/GoogleMap.vue'
 </script>
